@@ -1,1 +1,1 @@
-# hussain
+This project analyzes the sales data of Walmart stores to uncover insights into various factors that impact weekly sales. The analysis uses SQL to process and query the data, demonstrating expertise in database management, data cleaning, and analysis. The findings provide valuable business insights that can help Walmart optimize its operations and strategy.
